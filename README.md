@@ -11,3 +11,7 @@ You need composer and PHP installed in the machine
 Use the following command to create new project
 
 laravel new <project-name>
+
+## install laravel ui
+
+Install laravel ui from the following link https://github.com/laravel/ui
